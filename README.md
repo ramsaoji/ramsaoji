@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=150&section=header&text=Ram%20Saoji&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:696eff,100:f8acff&height=170&section=header&text=Ram%20Saoji&fontSize=45&animation=fadeIn&fontAlignY=32&fontColor=F0FAFF" width="100%"/>
 </div>
 
 <h2 align="center">
@@ -8,13 +8,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00F7F7&center=true&width=700&lines=Building+Modern+Web+Applications;Creating+Responsive+User+Interfaces;Passionate+About+Clean+Code" alt="Coding Introduction"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=d397fa&center=true&width=700&lines=Building+Modern+Web+Applications;Creating+Responsive+User+Interfaces;Passionate+About+Clean+Code" alt="Coding Introduction"/>
   </a>
 </div>
 
 ## 🌟 About Me
 
-<h4>I'm a passionate Frontend Developer with over 2 years of experience, transforming complex ideas into elegant, user-friendly web applications.</h3>
+### I'm a passionate Frontend Developer with over 2 years of experience, transforming complex ideas into elegant, user-friendly web applications.
 
 ## 💻 Tech Stack
 
@@ -45,5 +45,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8acff,100:696eff&height=100&section=footer" width="100%"/>
 </div>
