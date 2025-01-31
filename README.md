@@ -33,9 +33,9 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/ramsaoji"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/ramsaoji27"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> &nbsp; &nbsp;
-  <a href="mailto:myofficial@techness.in"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp; &nbsp;
-  <a href="https://ramsaoji.techness.in"><img src="https://img.shields.io/badge/Portfolio-008C73?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <!-- <a href="https://twitter.com/ramsaoji27"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a> &nbsp; &nbsp; -->
+  <a href="mailto:myofficial@techness.in"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=maildotru&logoColor=white"/></a> &nbsp; &nbsp;
+  <a href="https://ramsaoji.techness.in"><img src="https://img.shields.io/badge/Portfolio-008C73?style=for-the-badge&logo=paddle&logoColor=white"/></a>
 </div>
 
 <br>
