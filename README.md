@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=d397fa&center=true&width=500&lines=Building+Modern+Web+Applications;Creating+Responsive+User+Interfaces;Passionate+About+Clean+Code" alt="Coding Introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=d397fa&center=true&width=500&lines=Building+Modern+Web+Applications;Creating+Responsive+UI;Passionate+About+Clean+Code" alt="Coding Introduction" />
   </a>
 </div>
 
@@ -19,9 +19,9 @@
 </div>
 
 <h2 style="font-size: clamp(1.3rem, 2.5vw, 1.8rem);">📊 GitHub Overview</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramsaoji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramsaoji&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+<div align="center" style="display: flex; flex-wrap: wrap; row-gap: 20px; col-gap:15px; justify-content: center;">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramsaoji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" style="max-width: 100%;"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramsaoji&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" style="max-width: 100%;"/>
 </div>
 
 <h2 style="font-size: clamp(1.3rem, 2.5vw, 1.8rem);">🌐 Connect</h2>
@@ -38,5 +38,5 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8acff,100:696eff&height=100&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8acff,100:696eff&height=120&section=footer" width="100%">
 </div>
