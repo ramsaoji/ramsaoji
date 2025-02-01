@@ -19,10 +19,13 @@
 </div>
 
 <h2 style="font-size: clamp(1.3rem, 2.5vw, 1.8rem);">📊 GitHub Overview</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; row-gap: 20px; col-gap:15px; justify-content: center;">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramsaoji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" style="max-width: 100%;"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramsaoji&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" style="max-width: 100%;"/>
+<div align="center" ">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ramsaoji&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" style="width: 412px;"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramsaoji&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" style="width: 412px;"/>
 </div>
+
+
+
 
 <h2 style="font-size: clamp(1.3rem, 2.5vw, 1.8rem);">🌐 Connect</h2>
 <div align="center">
