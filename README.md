@@ -11,7 +11,7 @@
 </div>
 
 <h2 style="font-size: clamp(1.3rem, 2.5vw, 1.8rem);">🌟 About Me</h2>
-<p style="font-size: clamp(1.1rem, 2.2vw, 1.4rem);">I'm a passionate Frontend Developer with over 2 years of experience, transforming complex ideas into elegant, user-friendly web applications.</p>
+<p style="font-size: clamp(1.1rem, 2.2vw, 1.4rem);">I'm a passionate Frontend Developer with 3.5+ years of experience, transforming complex ideas into elegant, user-friendly web applications.</p>
 
 <h2 style="font-size: clamp(1.3rem, 2.5vw, 1.8rem);">💻 Tech Stack</h2>
 <div align="center">
